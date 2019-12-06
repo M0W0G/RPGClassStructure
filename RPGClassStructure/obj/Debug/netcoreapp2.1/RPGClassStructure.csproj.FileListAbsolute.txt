@@ -1,0 +1,11 @@
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\bin\Debug\netcoreapp2.1\RPGClassStructure.deps.json
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\bin\Debug\netcoreapp2.1\RPGClassStructure.runtimeconfig.json
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\bin\Debug\netcoreapp2.1\RPGClassStructure.runtimeconfig.dev.json
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\bin\Debug\netcoreapp2.1\RPGClassStructure.dll
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\bin\Debug\netcoreapp2.1\RPGClassStructure.pdb
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.csprojAssemblyReference.cache
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.csproj.CoreCompileInputs.cache
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.AssemblyInfoInputs.cache
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.AssemblyInfo.cs
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.dll
+C:\Users\brend.DESKTOP-U220KAH\Desktop\Personal C# Projects\RPGClassStructure\obj\Debug\netcoreapp2.1\RPGClassStructure.pdb

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\brend.DESKTOP-U220KAH\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\brend.DESKTOP-U220KAH\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}
